@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Shah Faishal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-image.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4921eaf70.gif">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/faisu0786/faisu0786/assets/124066649/3c5db3a8-8a76-4b47-9c9c-361da743d43a)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisu0786&label=Profile%20views&color=0e75b6&style=flat" alt="faisu0786" /> </p>
 
