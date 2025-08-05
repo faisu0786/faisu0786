@@ -1,5 +1,6 @@
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg)
-
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg)
+](https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg
+)
 <h1 align="center">Hi 👋, I'm Md Shah Faishal</h1>
 <h3 align="center">A passionate Software Developer and Tech Enthusiast from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/faisu0786/faisu0786/assets/124066649/cf50033a-eb02-40d9-bc7f-28da305aec61">
@@ -53,9 +54,9 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+<!--   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/>
-  </a>
+  </a> -->
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faisu0786&show_icons=true&locale=en&layout=compact" alt="faisu0786" /></p>
