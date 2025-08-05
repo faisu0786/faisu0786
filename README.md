@@ -1,6 +1,5 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg)
-](https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg
-)
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg)
+
 <!-- 🆕 Replace the image below with your new banner image -->
 <h1 align="center">Hi 👋, I'm Md Shah Faishal</h1>
 <h3 align="center">A passionate Software Developer and Tech Enthusiast from India</h3>
