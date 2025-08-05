@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/faishal96313801" target="blank"><img src="https://img.shields.io/twitter/follow/faishal96313801?logo=twitter&style=for-the-badge" alt="faishal96313801" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analysis, Machine Learning & Backend Development (Python/Django)**
+- 🌱 I’m currently learning **Data Analysis (Python)**
 
 - 👨‍💻 Recently completed **"Unemployment Analysis with Python"** as part of my internship at Oasis Infobyte
 
-- 🎓 I'm a **Final Year B.Tech CSE Student** at **Meghnad Saha Institute of Technology**
+- 🎓 I have completed my **B.Tech CSE Student** at **Meghnad Saha Institute of Technology**
 
 - 💼 Selected as a **Python Developer Intern** at **Oasis Infobyte**
 
