@@ -1,82 +1,83 @@
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg)
-
-<!-- 🆕 Replace the image below with your new banner image -->
 <h1 align="center">Hi 👋, I'm Md Shah Faishal</h1>
-<h3 align="center">A passionate Software Developer and Tech Enthusiast from India</h3>
+<h3 align="center">Data analytics learner | SQL • Advanced Excel | Learning Python & Power BI</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/faisu0786/faisu0786/assets/124066649/cf50033a-eb02-40d9-bc7f-28da305aec61">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisu0786&label=Profile%20views&color=0e75b6&style=flat" alt="faisu0786" /> </p>
 
-<p align="left"> <a href="https://twitter.com/faishal96313801" target="blank"><img src="https://img.shields.io/twitter/follow/faishal96313801?logo=twitter&style=for-the-badge" alt="faishal96313801" /></a> </p>
+- 📊 Currently doing a **Data Analytics** course at **AccioJob**
 
-- 🌱 I’m currently learning **Data Analysis (Python)**
+- 🌱 Learning **Python (data analysis)** and **Power BI**
 
-- 👨‍💻 Recently completed **"Unemployment Analysis with Python"** as part of my internship at Oasis Infobyte
+- 🎓 B.Tech in **Computer Science and Engineering** from **Meghnad Saha Institute of Technology**
 
-- 🎓 I have completed my **B.Tech CSE Student** at **Meghnad Saha Institute of Technology**
+- 💼 **Python Developer Intern** at **Oasis Infobyte**, where I completed **"Unemployment Analysis with Python"**
 
-- 💼 Selected as a **Python Developer Intern** at **Oasis Infobyte**
+- 🏆 Completed **Oracle Academy – Applied Database Systems** certification
 
-- 🏆 Completed **Oracle Academy – Applied Database Systems** Certification
+- 🌐 Completed a **Web Development Virtual Internship** at **Bharat Intern**
 
-- 🌐 Participated in **Web Development Virtual Internship at Bharat Intern**
+- 📫 How to reach me: **faishalmfp2000@gmail.com**
 
-- 📫 How to reach me **faishalmfp2000@gmail.com**
+- ⚡ Fun fact: **I enjoy debugging more than bugging people 😉**
 
-- ⚡ Fun fact **I enjoy debugging more than bugging people 😉**
+## 🧰 Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/faishal96313801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faishal96313801" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/md-shah-faishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-shah-faishal" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21799567/md-shah-faishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="md-shah-faishal" height="30" width="40" /></a>
-<a href="https://instagram.com/_mr.siddique_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr.siddique_" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/faishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="faishal" height="30" width="40" /></a>
-</p>
+| Skill | Status |
+|---|---|
+| SQL | Completed course, used in a project |
+| Microsoft Excel (basic and advanced) | Completed courses and mock tests, used in a project |
+| Python and pandas | Learning, used in an internship project |
+| Power BI | Learning |
+| HTML, CSS, Bootstrap | Used in a web development internship |
+
+## 📁 Projects
+
+### Unemployment Analysis with Python
+Analysis of unemployment data, completed during my internship at Oasis Infobyte.
+**Tools:** Python, pandas
+**Link:** _add your repository link here_
+
+### California Health and Income Analysis
+An SQL project exploring how health and income data relate across California.
+**Tools:** SQL
+**Link:** _add your repository or query file link here_
+
+### Company Dashboard
+A real-world company dashboard built in Excel to find useful business insights.
+**Tools:** Excel
+**Link:** _add your file or screenshot link here_
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-<!--   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
-  </a>  -->
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
-<!--   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="matplotlib" width="40" height="40"/>
-  </a> -->
-</p>
-
-<h3 align="left">🛢️ Databases and Queries:</h3>
-<p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
-<!--   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" width="40" height="40"/>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40"/>
-  </a> -->
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/md-shah-faishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-shah-faishal" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21799567/md-shah-faishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="md-shah-faishal" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/faishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="faishal" height="30" width="40" /></a>
+<a href="https://twitter.com/faishal96313801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faishal96313801" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faisu0786&show_icons=true&locale=en&layout=compact" alt="faisu0786" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faisu0786&show_icons=true&locale=en" alt="faisu0786" /></p>
 
 <p><img align="center" src="https://github-readme-str
