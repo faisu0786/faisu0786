@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md Shah Faishal</h1>
 <h3 align="center">Data analytics learner | SQL • Advanced Excel | Learning Python & Power BI</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/faisu0786/faisu0786/assets/124066649/cf50033a-eb02-40d9-bc7f-28da305aec61">
+<img align="right" alt="SQL and Excel" width="400" src="demo_sql_excel.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisu0786&label=Profile%20views&color=0e75b6&style=flat" alt="faisu0786" /> </p>
 
