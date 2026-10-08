@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisu0786&label=Profile%20views&color=0e75b6&style=flat" alt="faisu0786" /> </p>
 
+<p align="left"> <a href="https://twitter.com/faishal96313801" target="blank"><img src="https://img.shields.io/twitter/follow/faishal96313801?logo=twitter&style=for-the-badge" alt="faishal96313801" /></a> </p>
+
 - 📊 Currently doing a **Data Analytics** course at **AccioJob**
 
 - 🌱 Learning **Python (data analysis)** and **Power BI**
